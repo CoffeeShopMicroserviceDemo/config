@@ -1,0 +1,5 @@
+spring:
+  main:
+      banner-mode: "off"
+sentry:
+  dsn: https://2e5a851923c047129c4536b8d05c3835@o995480.ingest.sentry.io/5954379
